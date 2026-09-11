@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "message": "TEST_SUCCESS",
+  "data": {
+    "num": 0,
+    "surplus_num": 0,
+    "dynamic_verification_code": "1"
+  }
+}

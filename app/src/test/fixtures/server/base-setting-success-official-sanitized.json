@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "message": "TEST_SUCCESS",
+  "data": {
+    "venue_name": "TEST_VENUE_NAME",
+    "version": "TEST_VERSION",
+    "recognition_type": ["1", "2", "3", "4", "5"],
+    "use_notice": "TEST_USE_NOTICE",
+    "return_notice": "TEST_RETURN_NOTICE",
+    "logo": "TEST_LOGO_URL",
+    "company": "TEST_COMPANY",
+    "cozy_tips": "TEST_COZY_TIPS",
+    "advertisement_type": 0,
+    "advertisement_list": [
+      {
+        "image": "TEST_AD_IMAGE_URL",
+        "video": ""
+      }
+    ],
+    "background_img": "TEST_BACKGROUND_IMAGE_URL",
+    "palm_print_img": "TEST_PALM_PRINT_IMAGE_URL",
+    "area_list": [
+      {
+        "area_id": 2,
+        "name": "TEST_AREA_NAME"
+      }
+    ],
+    "locker_check_status": "0"
+  }
+}

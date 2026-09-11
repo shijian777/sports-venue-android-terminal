@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "referenceImages": [
+    {
+      "referenceImage": "img-01.png",
+      "originalZipFileName": "21首次存物-不选柜模式.png"
+    },
+    {
+      "referenceImage": "img-02.png",
+      "originalZipFileName": "首次存物-名下无业务.png"
+    },
+    {
+      "referenceImage": "img-03.png",
+      "originalZipFileName": "首次存物-选层提示.png"
+    },
+    {
+      "referenceImage": "img-04.png",
+      "originalZipFileName": "30更衣柜管理-确认开柜.png"
+    },
+    {
+      "referenceImage": "img-05.png",
+      "originalZipFileName": "28离场还柜-还柜成功.png"
+    },
+    {
+      "referenceImage": "img-06.png",
+      "originalZipFileName": "24首次存物-手环识别失败.png"
+    },
+    {
+      "referenceImage": "img-07.png",
+      "originalZipFileName": "23首次存物-无匹配掌纹.png"
+    },
+    {
+      "referenceImage": "img-08.png",
+      "originalZipFileName": "22首次存物-已有柜子.png"
+    },
+    {
+      "referenceImage": "img-09.png",
+      "originalZipFileName": "首次存物-取柜码错误.png"
+    },
+    {
+      "referenceImage": "img-10.png",
+      "originalZipFileName": "10掌纹录入-录入成功.png"
+    },
+    {
+      "referenceImage": "img-11.png",
+      "originalZipFileName": "14掌纹更新-弹窗1.png"
+    },
+    {
+      "referenceImage": "img-12.png",
+      "originalZipFileName": "12掌纹录入-弹窗2.png"
+    },
+    {
+      "referenceImage": "img-13.png",
+      "originalZipFileName": "11掌纹录入-弹窗1.png"
+    },
+    {
+      "referenceImage": "img-14.png",
+      "originalZipFileName": "06首页-未使用柜子.png"
+    },
+    {
+      "referenceImage": "img-15.png",
+      "originalZipFileName": "07首页-开柜失败.png"
+    },
+    {
+      "referenceImage": "img-16.png",
+      "originalZipFileName": "08首页-网络异常.png"
+    },
+    {
+      "referenceImage": "img-17.png",
+      "originalZipFileName": "05首页-取物提示.png"
+    },
+    {
+      "referenceImage": "img-18.png",
+      "originalZipFileName": "开柜.png"
+    },
+    {
+      "referenceImage": "img-19.png",
+      "originalZipFileName": "掌纹录入.png"
+    },
+    {
+      "referenceImage": "img-20.png",
+      "originalZipFileName": "用柜详情.png"
+    },
+    {
+      "referenceImage": "img-21.png",
+      "originalZipFileName": "离场还柜-验证.png"
+    },
+    {
+      "referenceImage": "img-22.png",
+      "originalZipFileName": "首页-初始 拷贝 2.png"
+    },
+    {
+      "referenceImage": "img-23.png",
+      "originalZipFileName": "掌纹识别.png"
+    },
+    {
+      "referenceImage": "img-24.png",
+      "originalZipFileName": "管理员操作.png"
+    },
+    {
+      "referenceImage": "img-25.png",
+      "originalZipFileName": "选层用柜.png"
+    },
+    {
+      "referenceImage": "img-26.png",
+      "originalZipFileName": "用柜.png"
+    },
+    {
+      "referenceImage": "img-27.png",
+      "originalZipFileName": "管理员操作-确认开柜.png"
+    },
+    {
+      "referenceImage": "img-28.png",
+      "originalZipFileName": "安装校验.png"
+    },
+    {
+      "referenceImage": "img-29.png",
+      "originalZipFileName": "选柜（多）.png"
+    },
+    {
+      "referenceImage": "img-30.png",
+      "originalZipFileName": "识别手环.png"
+    },
+    {
+      "referenceImage": "img-31.png",
+      "originalZipFileName": "使用多个柜子.png"
+    },
+    {
+      "referenceImage": "img-32.png",
+      "originalZipFileName": "使用校验.png"
+    },
+    {
+      "referenceImage": "img-33.png",
+      "originalZipFileName": "管理后台.png"
+    },
+    {
+      "referenceImage": "img-34.png",
+      "originalZipFileName": "配置手环.png"
+    },
+    {
+      "referenceImage": "img-35.png",
+      "originalZipFileName": "使用校验-登录.png"
+    },
+    {
+      "referenceImage": "img-36.png",
+      "originalZipFileName": "登录.png"
+    },
+    {
+      "referenceImage": "img-37.png",
+      "originalZipFileName": "安装校验-登录.png"
+    }
+  ],
+  "screenReferences": [
+    {
+      "id": 1,
+      "enumName": "HOME_WAITING",
+      "referenceImage": "img-22.png"
+    },
+    {
+      "id": 2,
+      "enumName": "HOME_READING_CREDENTIAL",
+      "referenceImage": "img-22.png"
+    },
+    {
+      "id": 3,
+      "enumName": "HOME_UNREGISTERED_COUNTDOWN",
+      "referenceImage": "img-22.png"
+    },
+    {
+      "id": 4,
+      "enumName": "HOME_CREDENTIAL_ERROR",
+      "referenceImage": "img-22.png"
+    },
+    {
+      "id": 5,
+      "enumName": "FACE_PREPARING",
+      "referenceImage": "img-10.png"
+    },
+    {
+      "id": 6,
+      "enumName": "FACE_DETECTING",
+      "referenceImage": "img-10.png"
+    },
+    {
+      "id": 7,
+      "enumName": "FACE_UPLOADING",
+      "referenceImage": "img-10.png"
+    },
+    {
+      "id": 8,
+      "enumName": "FACE_CAMERA_PERMISSION_TEMPORARY",
+      "referenceImage": "img-10.png"
+    },
+    {
+      "id": 9,
+      "enumName": "FACE_CAMERA_PERMISSION_PERMANENT",
+      "referenceImage": "img-10.png"
+    },
+    {
+      "id": 10,
+      "enumName": "FACE_RETRYABLE_FAILURE",
+      "referenceImage": "img-10.png"
+    },
+    {
+      "id": 11,
+      "enumName": "FACE_COMPONENT_UNAVAILABLE",
+      "referenceImage": "img-10.png"
+    },
+    {
+      "id": 12,
+      "enumName": "PALM_GUIDE",
+      "referenceImage": "img-23.png"
+    },
+    {
+      "id": 13,
+      "enumName": "PALM_DEVICE_UNAVAILABLE",
+      "referenceImage": "img-23.png"
+    },
+    {
+      "id": 14,
+      "enumName": "LOCKER_DISCOVERING",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 15,
+      "enumName": "LOCKER_NO_AREA",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 16,
+      "enumName": "LOCKER_UNSELECTED",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 17,
+      "enumName": "LOCKER_SELECTED",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 18,
+      "enumName": "LOCKER_SELECTION_ERROR",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 19,
+      "enumName": "UNLOCK_VALIDATING",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 20,
+      "enumName": "UNLOCK_CONNECTING",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 21,
+      "enumName": "UNLOCK_WAITING_RESPONSE",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 22,
+      "enumName": "UNLOCK_SUCCESS",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 23,
+      "enumName": "UNLOCK_BOARD_REJECTED",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 24,
+      "enumName": "UNLOCK_DEVICE_CONNECTION_FAILED",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 25,
+      "enumName": "UNLOCK_SEND_FAILED",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 26,
+      "enumName": "UNLOCK_COMMUNICATION_TIMEOUT",
+      "referenceImage": "img-18.png"
+    },
+    {
+      "id": 27,
+      "enumName": "RETURN_AUTH_READY",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 28,
+      "enumName": "RETURN_AUTH_QUERYING",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 29,
+      "enumName": "RETURN_AUTH_FAILED",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 30,
+      "enumName": "RETURN_AUTH_NETWORK_ERROR",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 31,
+      "enumName": "RETURN_LOCKER_UNSELECTED",
+      "referenceImage": "img-31.png"
+    },
+    {
+      "id": 32,
+      "enumName": "RETURN_LOCKER_SELECTED",
+      "referenceImage": "img-31.png"
+    },
+    {
+      "id": 33,
+      "enumName": "RETURN_LOCKER_PROCESSING",
+      "referenceImage": "img-31.png"
+    },
+    {
+      "id": 34,
+      "enumName": "RETURN_LOCKER_EMPTY",
+      "referenceImage": "img-31.png"
+    },
+    {
+      "id": 35,
+      "enumName": "RETURN_OPENING",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 36,
+      "enumName": "RETURN_WAITING_FOR_CLOSE",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 37,
+      "enumName": "RETURN_COMMITTING",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 38,
+      "enumName": "RETURN_SUCCESS",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 39,
+      "enumName": "RETURN_FAILED",
+      "referenceImage": "img-21.png"
+    },
+    {
+      "id": 40,
+      "enumName": "ADMIN_PIN_ENTRY",
+      "referenceImage": "img-36.png"
+    },
+    {
+      "id": 41,
+      "enumName": "ADMIN_PIN_ERROR",
+      "referenceImage": "img-36.png"
+    },
+    {
+      "id": 42,
+      "enumName": "ADMIN_FUNCTIONS",
+      "referenceImage": "img-24.png"
+    },
+    {
+      "id": 43,
+      "enumName": "ADMIN_SERIAL_DISCONNECTED",
+      "referenceImage": "img-28.png"
+    },
+    {
+      "id": 44,
+      "enumName": "ADMIN_SERIAL_OPENING",
+      "referenceImage": "img-28.png"
+    },
+    {
+      "id": 45,
+      "enumName": "ADMIN_SERIAL_CONNECTED",
+      "referenceImage": "img-28.png"
+    },
+    {
+      "id": 46,
+      "enumName": "ADMIN_SERIAL_SUCCESS",
+      "referenceImage": "img-28.png"
+    },
+    {
+      "id": 47,
+      "enumName": "ADMIN_SERIAL_FAILURE",
+      "referenceImage": "img-28.png"
+    },
+    {
+      "id": 48,
+      "enumName": "FACE_SDK_CHECKING_LICENSE",
+      "referenceImage": "img-33.png"
+    },
+    {
+      "id": 49,
+      "enumName": "FACE_SDK_AWAITING_ACTIVATION",
+      "referenceImage": "img-33.png"
+    },
+    {
+      "id": 50,
+      "enumName": "FACE_SDK_ACTIVATING",
+      "referenceImage": "img-33.png"
+    },
+    {
+      "id": 51,
+      "enumName": "FACE_SDK_LICENSED",
+      "referenceImage": "img-33.png"
+    },
+    {
+      "id": 52,
+      "enumName": "FACE_SDK_INITIALIZING",
+      "referenceImage": "img-33.png"
+    },
+    {
+      "id": 53,
+      "enumName": "FACE_SDK_READY",
+      "referenceImage": "img-33.png"
+    },
+    {
+      "id": 54,
+      "enumName": "FACE_SDK_ERROR",
+      "referenceImage": "img-33.png"
+    },
+    {
+      "id": 55,
+      "enumName": "ENROLLMENT_CHOICE",
+      "referenceImage": "img-24.png"
+    },
+    {
+      "id": 56,
+      "enumName": "FACE_ENROLLMENT_CAPTURING",
+      "referenceImage": "img-23.png"
+    },
+    {
+      "id": 57,
+      "enumName": "PALM_ENROLLMENT_UNAVAILABLE",
+      "referenceImage": "img-23.png"
+    }
+  ]
+}

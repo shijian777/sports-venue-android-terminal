@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "message": "TEST_SUCCESS",
+  "data": {
+    "merchant_code": "TEST_MERCHANT_CODE",
+    "device_no": "TEST_DEVICE_NO"
+  }
+}

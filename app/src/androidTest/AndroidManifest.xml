@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.codex.lockertest.review">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="30" />
+    <application android:label="Locker UI regression (test only)" />
+    <instrumentation android:name="com.codex.lockertest.review.PixelLayoutRegression"
+        android:targetPackage="com.codex.lockertest" />
+    <instrumentation android:name="com.codex.lockertest.review.OnlineAdminLoginVisualRegression"
+        android:targetPackage="com.codex.lockertest" />
+    <instrumentation android:name="com.codex.lockertest.review.PdfHomeVisualRegression"
+        android:targetPackage="com.codex.lockertest" />
+</manifest>

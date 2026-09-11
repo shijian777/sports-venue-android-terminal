@@ -1,0 +1,10 @@
+{
+  "scode": "TEST_SCODE",
+  "sign": "TEST_SIGNATURE",
+  "timestamp": 1700000000,
+  "data": [
+    {
+      "device_serial": "TEST_DEVICE_SERIAL"
+    }
+  ]
+}

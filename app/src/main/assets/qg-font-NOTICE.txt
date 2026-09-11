@@ -1,0 +1,4 @@
+Noto Sans SC font subsets, static instances at weights 400 and 600.
+Copyright © 2014-2021 Adobe (https://www.adobe.com/), with Reserved Font Name 'Source'.
+Licensed under the SIL Open Font License 1.1; see OFL.txt.
+Subsets retain source license metadata. Unincluded server-provided characters use Android fallback fonts.

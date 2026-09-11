@@ -1,0 +1,22 @@
+/manual-build/
+/local.properties
+/.superpowers/
+/.gradle/
+/.idea/
+/**/build/
+/outputs/
+/tmp/
+*.iml
+*.class
+*.apk
+*.aab
+*.log
+*.keystore
+*.jks
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+# The real server signing credential must be restored only on a trusted machine.
+/app/src/production/java/com/codex/lockertest/server/ProductionSecretProvider.java
