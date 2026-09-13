@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SmartLockerSerialTest"
+rootProject.name = "SportsVenueManagementFrontend"
 include ':app'
